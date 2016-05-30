@@ -1,0 +1,14 @@
+C:\Users\jbautistam\Proyectos\Development\Net\Testing\TestPlugins\PluginSampleHello\bin\Debug\PluginSampleHello.dll
+C:\Users\jbautistam\Proyectos\Development\Net\Testing\TestPlugins\PluginSampleHello\bin\Debug\PluginSampleHello.pdb
+C:\Users\jbautistam\Proyectos\Development\Net\Testing\TestPlugins\PluginSampleHello\bin\Debug\LibPlugins.Core.dll
+C:\Users\jbautistam\Proyectos\Development\Net\Testing\TestPlugins\PluginSampleHello\bin\Debug\LibPlugins.Core.pdb
+C:\Users\jbautistam\Proyectos\Development\Net\Testing\TestPlugins\PluginSampleHello\obj\Debug\PluginSampleHello.csprojResolveAssemblyReference.cache
+C:\Users\jbautistam\Proyectos\Development\Net\Testing\TestPlugins\PluginSampleHello\obj\Debug\PluginSampleHello.dll
+C:\Users\jbautistam\Proyectos\Development\Net\Testing\TestPlugins\PluginSampleHello\obj\Debug\PluginSampleHello.pdb
+C:\Users\jbautistam\Proyectos\GitRepository\TestPlugins\PluginSampleHello\bin\Debug\PluginSampleHello.dll
+C:\Users\jbautistam\Proyectos\GitRepository\TestPlugins\PluginSampleHello\bin\Debug\PluginSampleHello.pdb
+C:\Users\jbautistam\Proyectos\GitRepository\TestPlugins\PluginSampleHello\bin\Debug\LibPlugins.Core.dll
+C:\Users\jbautistam\Proyectos\GitRepository\TestPlugins\PluginSampleHello\bin\Debug\LibPlugins.Core.pdb
+C:\Users\jbautistam\Proyectos\GitRepository\TestPlugins\PluginSampleHello\obj\Debug\PluginSampleHello.csprojResolveAssemblyReference.cache
+C:\Users\jbautistam\Proyectos\GitRepository\TestPlugins\PluginSampleHello\obj\Debug\PluginSampleHello.dll
+C:\Users\jbautistam\Proyectos\GitRepository\TestPlugins\PluginSampleHello\obj\Debug\PluginSampleHello.pdb
